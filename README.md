@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/version-1.0.0-blue)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]([https://github.com/MatAILab-NPU/Co-PAS/blob/main/LICENSE](https://github.com/MatAILab-NPU/Co-PAS/blob/main/LICENSE))
+
 # Co-Pilot for Perovskite Additive Screener （Co-PAS）
 
 This repository is created by Yang Pu, Zhe Liu, Yifan Zhou, et al. 
@@ -9,7 +12,7 @@ Co-PAS is an ML-driven framework designed to accelerate additive screening for p
 When using the code for any scientific publications or conferences, please cite our research article as:
 Yang Pu, Zhiyuan Dai, Yifan Zhou, Ning Jia, Hongyue Wang, Yerzhan Mukhametkarimov, Ruihao Chen, Hongqiang Wang, Zhe Liu, "Machine Learning Co-pilot for Screening of Organic Molecular Additives for Perovskite Solar Cells", 2024.
 
-Some key packages (and their versions) involved to run this code are as follows:
+Some key packages (and their versions) required to run this code are as follows:
 
 
 
