@@ -13,6 +13,7 @@ When using the code for any scientific publications or conferences, please cite 
 Yang Pu, Zhiyuan Dai, Yifan Zhou, Ning Jia, Hongyue Wang, Yerzhan Mukhametkarimov, Ruihao Chen, Hongqiang Wang, Zhe Liu, "Machine Learning Co-pilot for Screening of Organic Molecular Additives for Perovskite Solar Cells", 2024.
 
 Some key packages (and their versions) required to run this code are as follows:
+
 numpy                   1.19.2
 pandas                  1.1.5
 tensorflow              1.10.0
