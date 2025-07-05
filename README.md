@@ -15,10 +15,15 @@ Yang Pu, Zhiyuan Dai, Yifan Zhou, Ning Jia, Hongyue Wang, Yerzhan Mukhametkarimo
 Some key packages (and their versions) required to run this code are as follows:
 
 numpy                   1.19.2
+
 pandas                  1.1.5
+
 tensorflow              1.10.0
+
 torch                   1.10.2+cu102
+
 rdkit                   2020.09.1.0  
+
 pubchempy                1.0.4 
 
 
