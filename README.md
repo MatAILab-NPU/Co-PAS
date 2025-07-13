@@ -10,7 +10,7 @@ The code is written by Yang Pu at the Northwestern Polytechnical Univeristy.
 Co-PAS is an ML-driven framework designed to accelerate additive screening for perovskite solar cells, which integrates a Molecular Scaffold Classifier, Junction Tree Variational Autoencoder for Molecular Structure Encoding, Predictive Regressor for Molecular Properties (Donor Number, Dipole Moment, etc.)
 
 When using the code for any scientific publications or conferences, please cite our research article as:
-Yang Pu, Zhiyuan Dai, Yifan Zhou, Ning Jia, Hongyue Wang, Yerzhan Mukhametkarimov, Ruihao Chen, Hongqiang Wang, Zhe Liu, "Machine Learning Co-pilot for Screening of Organic Molecular Additives for Perovskite Solar Cells", 2025, Adv. Funct. Mater., https://doi.org/10.1002/adfm.202506672.
+Yang Pu, Zhiyuan Dai, Yifan Zhou, Ning Jia, Hongyue Wang, Yerzhan Mukhametkarimov, Ruihao Chen, Hongqiang Wang, Zhe Liu, "Data-Driven Molecular Encoding for Screening of Organic Molecular Additives for Perovskite Solar Cells", 2025, Adv. Funct. Mater., https://doi.org/10.1002/adfm.202506672.
 
 Some key packages (and their versions) required to run this code are as follows:
 
